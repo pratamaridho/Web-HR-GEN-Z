@@ -1,0 +1,8 @@
+{
+    "Forbidden": "Akses ditolak",
+    "This action is unauthorized.": "Peran akun Anda tidak boleh membuka halaman atau melakukan aksi ini.",
+    "Not Found": "Halaman tidak ditemukan",
+    "Page Expired": "Sesi halaman berakhir",
+    "Server Error": "Terjadi kesalahan pada server",
+    "Too Many Requests": "Terlalu banyak permintaan"
+}

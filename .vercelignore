@@ -1,0 +1,8 @@
+/tests
+/docs
+/database/*.sqlite
+/node_modules
+/storage/logs
+/.claude
+/public/index.php
+/public/.htaccess
